@@ -1,7 +1,7 @@
 {
   "name": "Big Whale Wif Hat",
   "symbol": "BWWH",
-  "logo": "https://raw.githubusercontent.com/bigwhalewighat/token/main/tokenlogo.png",
+  "image": "https://raw.githubusercontent.com/bigwhalewighat/token/main/tokenlogo.png",
   "decimals": 9,
   "description": "Description of your token goes here.",
   "tags": ["Social"]
